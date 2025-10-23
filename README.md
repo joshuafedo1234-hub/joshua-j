@@ -6,6 +6,7 @@ A real-time weather monitoring web app that displays current weather updates of 
 It provides temperature, humidity, wind speed, and forecasts in an interactive dashboard.
 
 Features:
+
 Live weather data using OpenWeather/IBM API
 
 Search by city name
